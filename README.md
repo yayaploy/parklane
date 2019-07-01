@@ -118,7 +118,7 @@ html {
 <p align="right">Park Lane Condominium and Resort</p>-->
 <h1><marquee behavior="lrft">!!!Park Lane Condominium and Resort!!!</marquee></h1>
 
-<p><span class="yellow"><marquee direction="left" scrollamount="5" width="100%">ให้เช่า,レンタルルーム連絡先（LINEでも可）、TEL:+81-80-3120-0260</marquee></span></p>
+<p><h1><span class="yellow"><marquee direction="left" scrollamount="5" width="100%">ให้เช่า,レンタルルーム連絡先（LINEでも可）、TEL:+81-80-3120-0260</marquee></span></p>
 
 <p align="left"><img src="https://yayaploy.github.io/Laguna-Beach-Resort-2-Condominium/QR_thai.jpg" alt="QR_code" width="100" >LINE,Link <br> HP,Link<img src="QR_parklane.png" alt="QR_code" width="100" >
 <img src="https://yayaploy.github.io/kaomangai/venus1.gif" alt="https://yayaploy.github.io/kaomangai/venus1.gif" width="50">
