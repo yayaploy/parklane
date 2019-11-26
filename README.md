@@ -120,7 +120,7 @@ html {
 
 <p><h1><span class="yellow"><marquee direction="left" scrollamount="5" width="100%">ให้เช่า,レンタルルーム連絡先（LINEでも可）、TEL:+81-80-3120-0260、<a href="mailto:renarumon@gmail.com">e-mail,click</a></marquee></span></h1></p>
 
-<p align="left"><img src="https://yayaploy.github.io/Laguna-Beach-Resort-2-Condominium/QR_thai.jpg" alt="QR_code" width="100" >LINE,Link <br> HP,Link<img src="QR_parklane.png" alt="QR_code" width="100" >
+<p align="left"><img src="https://yayaploy.github.io/Laguna-Beach-Resort-2-Condominium/QR_thai.jpg" alt="QR_code" width="100" >←LINE,Link <img src="QR_parklane.png" alt="QR_code" width="100" >←HP,Link
 <img src="https://yayaploy.github.io/kaomangai/venus1.gif" alt="https://yayaploy.github.io/kaomangai/venus1.gif" width="50">
 <img src="https://yayaploy.github.io/kaomangai/venus3.gif" alt="https://yayaploy.github.io/kaomangai/venus3.gif" width="50">
 </p>
